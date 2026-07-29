@@ -1,6 +1,6 @@
 # Nullspace
 
-[Website](https://ns.rocks) · [Docs](https://docs.ns.rocks) · [Quickstart](https://docs.ns.rocks/quickstarts/first-machine)
+[Website](https://ns.rocks) · [Docs](https://docs.ns.rocks) · [Quickstart](https://docs.ns.rocks/quickstarts/first-machine) · [Discord](https://discord.gg/nullspace)
 
 Cloud infrastructure for production AI agents.
 
@@ -12,11 +12,15 @@ its work needs.
 - **Agent-native.** Run LangGraph, Claude Agent SDK, OpenAI Agents, CrewAI,
   coding agents, or a plain script without rewriting the agent around the
   infrastructure.
-- **Isolated.** Each machine is a Firecracker microVM with its own filesystem,
-  resource limits, network policy, and scoped secrets.
+- **Isolated.** Today, each machine is a Firecracker microVM with its own
+  filesystem, resource limits, network policy, and scoped secrets.
 - **Stateful.** Create, execute, hibernate, resume, fork, and destroy machines
   through explicit lifecycle primitives. Availability varies by deployment.
-- **Composable.** Use the same platform through Python, TypeScript, the CLI,
+- **Multi-runtime by design.** Firecracker is our starting point, not the
+  boundary. Nullspace is designed to compose different virtualization
+  technologies behind one machine model, matching each workload to the right
+  isolation, performance, and hardware.
+- **One interface.** Use the same platform through Python, TypeScript, the CLI,
   MCP, or plain HTTPS.
 
 ## Quickstarts
@@ -38,6 +42,6 @@ single-host runtime are being prepared for release. Until then, start with the
 
 ## Stay close
 
-[Join the private beta](https://ns.rocks) · [Read the docs](https://docs.ns.rocks) · [Explore examples](https://docs.ns.rocks/examples) · [Work with us](https://ns.rocks/careers)
+[Join the private beta](https://ns.rocks) · [Discord](https://discord.gg/nullspace) · [Read the docs](https://docs.ns.rocks) · [Explore examples](https://docs.ns.rocks/examples) · [Work with us](https://ns.rocks/careers)
 
 _Private beta._
