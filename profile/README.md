@@ -5,13 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://ns.rocks"><strong>Website</strong></a>
+  <a href="https://ns.rocks"><img alt="" src="https://api.iconify.design/lucide/globe-2.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Website</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://docs.ns.rocks"><strong>Docs</strong></a>
+  <a href="https://docs.ns.rocks"><img alt="" src="https://api.iconify.design/lucide/book-open-text.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Docs</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://docs.ns.rocks/quickstarts/first-machine"><strong>Quickstart</strong></a>
+  <a href="https://ns.rocks/#waitlist"><img alt="" src="https://api.iconify.design/lucide/sparkles.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Join the waitlist</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://discord.gg/nullspace"><strong>Discord</strong></a>
+  <a href="https://discord.gg/nullspace"><img alt="" src="https://api.iconify.design/simple-icons/discord.svg?color=%235865f2" width="16" height="16" align="absmiddle"> <strong>Discord</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ns-rocks/nullspace/blob/main/LICENSE"><img alt="" src="https://api.iconify.design/lucide/scale.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Apache-2.0</strong></a>
 </p>
 
 <br>
@@ -87,11 +89,11 @@ The public release is being prepared now. Until then,
 <p align="center">
   <strong>Build on the open execution layer for AI agents.</strong>
   <br><br>
-  <a href="https://ns.rocks"><strong>Join the waitlist</strong></a>
+  <a href="https://ns.rocks/#waitlist"><img alt="" src="https://api.iconify.design/lucide/sparkles.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Join the waitlist</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://discord.gg/nullspace">Discord</a>
+  <a href="https://discord.gg/nullspace"><img alt="" src="https://api.iconify.design/simple-icons/discord.svg?color=%235865f2" width="16" height="16" align="absmiddle"> Discord</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://docs.ns.rocks/examples">Examples</a>
+  <a href="https://docs.ns.rocks/examples"><img alt="" src="https://api.iconify.design/lucide/code-xml.svg?color=%238b949e" width="16" height="16" align="absmiddle"> Examples</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://ns.rocks/careers">Careers</a>
+  <a href="https://ns.rocks/careers"><img alt="" src="https://api.iconify.design/lucide/briefcase-business.svg?color=%238b949e" width="16" height="16" align="absmiddle"> Careers</a>
 </p>
