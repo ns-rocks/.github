@@ -34,7 +34,16 @@ its work needs.
 - [Choose a client](https://docs.ns.rocks/reference/clients) — compare the
   Python and TypeScript SDKs, CLI, local MCP server, and HTTP API.
 
-## Open source
+## Open source, by design
+
+Agent execution is too foundational to be a proprietary black box. The runtime
+that executes an agent — and defines what code, credentials, networks, and
+machines it can access — should be inspectable, portable, and deployable on
+infrastructure you control.
+
+Our goal is for Nullspace to become **the open-source agent execution runtime**:
+a shared, extensible layer that composes different virtualization technologies
+behind one machine model, from a single host to production cloud.
 
 The public API and protocol contracts, SDKs, CLI, console, documentation, and
 single-host runtime are being prepared for release. Until then, start with the
