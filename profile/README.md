@@ -2,20 +2,21 @@
 
 [Website](https://ns.rocks) · [Docs](https://docs.ns.rocks) · [Quickstart](https://docs.ns.rocks/quickstarts/first-machine) · [Discord](https://discord.gg/nullspace)
 
-Execution runtime for production AI agents.
+**The open execution runtime for production AI agents.**
 
-Give every agent compute that is composable, observable, and secure.
+Composable machines. Systems-level observability. Security by construction.
 
 ## Why Nullspace
 
-- **Composable compute.** Match each workload to the right CPU, memory, GPU,
-  tools, and virtualization technology through one machine model. Create,
-  execute, hibernate, resume, fork, and destroy through the same interface.
-- **Systems-level observability.** Understand agent execution across machines,
+- **Composable compute.** Give each agent a persistent machine with the right
+  CPU, memory, GPU, tools, and isolation model. Create, hibernate, resume, and
+  fork it through one machine model.
+- **Systems-level observability.** See what an agent actually does across
   processes, resources, filesystems, and networks — not only model calls and
   application traces.
-- **Security by construction.** Isolate execution and explicitly scope the
-  compute, filesystem, network access, and secrets available to each agent.
+- **Security by construction.** Treat agent code as untrusted. Give each
+  machine an isolated kernel, then explicitly scope its compute, filesystem,
+  network access, and secrets.
 
 ## Quickstarts
 
@@ -28,19 +29,24 @@ Give every agent compute that is composable, observable, and secure.
 - [Choose a client](https://docs.ns.rocks/reference/clients) — compare the
   Python and TypeScript SDKs, CLI, local MCP server, and HTTP API.
 
-## Open source, by design
+## Open source is the architecture
 
-Agent execution is too foundational to be a proprietary black box. The runtime
-that executes an agent — and defines what code, credentials, networks, and
-machines it can access — should be inspectable, portable, and deployable on
-infrastructure you control.
+Open source is not our go-to-market. It is our architecture.
 
-Our goal is for Nullspace to become **the open-source agent execution runtime**:
-a shared, extensible layer that composes different virtualization technologies
-behind one machine model, from a single host to production cloud.
+The execution layer is where agents touch your code, data, credentials, and
+infrastructure. You should be able to inspect that layer, run it on hardware
+you control, and keep running without depending on us.
 
-The public API and protocol contracts, SDKs, CLI, console, documentation, and
-single-host runtime are being prepared for release. Until then, start with the
+The Apache-2.0 release will include the public API and protocol contracts,
+SDKs, CLI, console, documentation, and the complete single-host control plane
+and runtime — not just an open client wrapped around a closed service. It will
+run on your own machine with no Nullspace account required.
+
+Our business is hosting and operating Nullspace, not licensing the runtime. We
+are building the open execution layer for AI agents, and we intend for it to
+stay open.
+
+The public release is being prepared now. Until then, start with the
 [documentation](https://docs.ns.rocks).
 
 ## Stay close
