@@ -5,21 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://ns.rocks">
-    <img alt="Website" src="https://img.shields.io/badge/website-ns.rocks-171717?style=flat-square">
-  </a>
-  <a href="https://docs.ns.rocks">
-    <img alt="Documentation" src="https://img.shields.io/badge/docs-read-2563eb?style=flat-square&logo=readthedocs&logoColor=white">
-  </a>
-  <a href="https://ns.rocks/#waitlist">
-    <img alt="Join the waitlist" src="https://img.shields.io/badge/waitlist-join-7c3aed?style=flat-square">
-  </a>
-  <a href="https://discord.gg/nullspace">
-    <img alt="Join Discord" src="https://img.shields.io/badge/Discord-join-5865f2?style=flat-square&logo=discord&logoColor=white">
-  </a>
-  <a href="https://github.com/ns-rocks/nullspace/blob/main/LICENSE">
-    <img alt="Apache 2.0 license" src="https://img.shields.io/badge/license-Apache--2.0-d97706?style=flat-square&logo=apache&logoColor=white">
-  </a>
+  <a href="https://ns.rocks"><img alt="" src="https://api.iconify.design/lucide/globe-2.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Website</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://docs.ns.rocks"><img alt="" src="https://api.iconify.design/lucide/book-open-text.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Docs</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://ns.rocks/#waitlist"><img alt="" src="https://api.iconify.design/lucide/sparkles.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Join the waitlist</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://discord.gg/nullspace"><img alt="" src="https://api.iconify.design/simple-icons/discord.svg?color=%235865f2" width="16" height="16" align="absmiddle"> <strong>Discord</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ns-rocks/nullspace/blob/main/LICENSE"><img alt="" src="https://api.iconify.design/lucide/scale.svg?color=%238b949e" width="16" height="16" align="absmiddle"> <strong>Apache-2.0</strong></a>
 </p>
 
 <br>
