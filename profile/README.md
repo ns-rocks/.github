@@ -51,6 +51,6 @@ The public release is being prepared now. Until then, start with the
 
 ## Stay close
 
-[Join the private beta](https://ns.rocks) · [Discord](https://discord.gg/nullspace) · [Read the docs](https://docs.ns.rocks) · [Explore examples](https://docs.ns.rocks/examples) · [Work with us](https://ns.rocks/careers)
+[Join the waitlist](https://ns.rocks) · [Discord](https://discord.gg/nullspace) · [Read the docs](https://docs.ns.rocks) · [Explore examples](https://docs.ns.rocks/examples) · [Work with us](https://ns.rocks/careers)
 
 _Private beta._
