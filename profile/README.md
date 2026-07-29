@@ -30,8 +30,8 @@
     </td>
     <td width="33%" valign="top">
       <sub>03 / SECURITY</sub>
-      <h3>Isolated by construction</h3>
-      <p>Treat agent code as untrusted. Give each machine an isolated kernel, then explicitly scope its compute, filesystem, network access, and secrets.</p>
+      <h3>Defense in depth</h3>
+      <p>Treat agent code as untrusted. Isolate workloads, broker credentials without exposing them, constrain egress with firewalls and network policy, and enforce resource and filesystem boundaries.</p>
     </td>
   </tr>
 </table>

@@ -37,7 +37,7 @@
   <text x="790" y="214" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">visibility</text>
   <text x="1126" y="214" text-anchor="end" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">system + network</text>
   <text x="790" y="245" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">security</text>
-  <text x="1126" y="245" text-anchor="end" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">isolated by default</text>
+  <text x="1126" y="245" text-anchor="end" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">policy at every layer</text>
   <text x="790" y="276" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">state</text>
   <text x="1126" y="276" text-anchor="end" fill="#98c379" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">● persistent</text>
 
