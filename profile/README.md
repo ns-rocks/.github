@@ -2,26 +2,20 @@
 
 [Website](https://ns.rocks) · [Docs](https://docs.ns.rocks) · [Quickstart](https://docs.ns.rocks/quickstarts/first-machine) · [Discord](https://discord.gg/nullspace)
 
-Cloud infrastructure for production AI agents.
+Execution runtime for production AI agents.
 
-Give every agent its own machine with the CPU, memory, GPU, tools, and isolation
-its work needs.
+Give every agent compute that is composable, observable, and secure.
 
 ## Why Nullspace
 
-- **Agent-native.** Run LangGraph, Claude Agent SDK, OpenAI Agents, CrewAI,
-  coding agents, or a plain script without rewriting the agent around the
-  infrastructure.
-- **Isolated.** Today, each machine is a Firecracker microVM with its own
-  filesystem, resource limits, network policy, and scoped secrets.
-- **Stateful.** Create, execute, hibernate, resume, fork, and destroy machines
-  through explicit lifecycle primitives. Availability varies by deployment.
-- **Multi-runtime by design.** Firecracker is our starting point, not the
-  boundary. Nullspace is designed to compose different virtualization
-  technologies behind one machine model, matching each workload to the right
-  isolation, performance, and hardware.
-- **One interface.** Use the same platform through Python, TypeScript, the CLI,
-  MCP, or plain HTTPS.
+- **Composable compute.** Match each workload to the right CPU, memory, GPU,
+  tools, and virtualization technology through one machine model. Create,
+  execute, hibernate, resume, fork, and destroy through the same interface.
+- **Systems-level observability.** Understand agent execution across machines,
+  processes, resources, filesystems, and networks — not only model calls and
+  application traces.
+- **Security by construction.** Isolate execution and explicitly scope the
+  compute, filesystem, network access, and secrets available to each agent.
 
 ## Quickstarts
 
