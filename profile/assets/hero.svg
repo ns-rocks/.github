@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Nullspace — the open execution runtime for production AI agents</title>
+  <desc id="desc">A terminal-inspired Nullspace banner highlighting composable compute, systems-level observability, and security by construction.</desc>
+
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#2c313a"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d7dae0"/>
+      <stop offset="1" stop-color="#abb2bf"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="12" fill="#121212"/>
+  <rect x="1" y="1" width="1198" height="418" rx="11" fill="none" stroke="#2c313a" stroke-width="2"/>
+  <rect x="24" y="24" width="1152" height="372" rx="5" fill="#181a1f" stroke="#2c313a"/>
+  <rect x="25" y="25" width="1150" height="370" rx="4" fill="url(#dots)" opacity=".45"/>
+
+  <text x="52" y="65" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="20" font-weight="700" letter-spacing=".8">N<tspan fill="#5c6370" font-weight="500">(A)</tspan></text>
+  <text x="1138" y="64" text-anchor="end" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.6">AGENT EXECUTION RUNTIME</text>
+  <line x1="52" y1="84" x2="1148" y2="84" stroke="#2c313a"/>
+
+  <text x="52" y="158" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="47" font-weight="700" letter-spacing="-1.6">The open execution runtime</text>
+  <text x="52" y="216" fill="url(#fade)" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="47" font-weight="700" letter-spacing="-1.6">for production AI agents.</text>
+  <text x="55" y="266" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="16">Give every agent a machine built to persist, branch, and run safely.</text>
+
+  <rect x="768" y="112" width="380" height="181" rx="4" fill="#121212" stroke="#495162"/>
+  <circle cx="792" cy="135" r="4" fill="#e06c75"/>
+  <circle cx="808" cy="135" r="4" fill="#e5c07b"/>
+  <circle cx="824" cy="135" r="4" fill="#98c379"/>
+  <text x="1126" y="140" text-anchor="end" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="11" letter-spacing="1">MACHINE / READY</text>
+  <line x1="768" y1="154" x2="1148" y2="154" stroke="#2c313a"/>
+
+  <text x="790" y="183" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">compute</text>
+  <text x="1126" y="183" text-anchor="end" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">composable</text>
+  <text x="790" y="214" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">visibility</text>
+  <text x="1126" y="214" text-anchor="end" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">system + network</text>
+  <text x="790" y="245" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">security</text>
+  <text x="1126" y="245" text-anchor="end" fill="#d7dae0" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">isolated by default</text>
+  <text x="790" y="276" fill="#5c6370" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">state</text>
+  <text x="1126" y="276" text-anchor="end" fill="#98c379" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12">● persistent</text>
+
+  <line x1="52" y1="326" x2="1148" y2="326" stroke="#2c313a"/>
+  <text x="52" y="363" fill="#abb2bf" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.1">01 / COMPOSABLE COMPUTE</text>
+  <text x="440" y="363" fill="#abb2bf" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.1">02 / SYSTEMS OBSERVABILITY</text>
+  <text x="861" y="363" fill="#abb2bf" font-family="'JetBrains Mono', 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.1">03 / SECURITY</text>
+</svg>
